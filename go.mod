@@ -17,7 +17,7 @@ require (
 	github.com/google/martian v2.1.0+incompatible // indirect
 	github.com/google/uuid v1.1.0 // indirect
 	github.com/googleapis/gax-go v0.0.0-20181219185031-c8a15bac9b9f // indirect
-	github.com/honeybadger-io/honeybadger-go v0.4.0
+	github.com/honeybadger-io/honeybadger-go v0.5.0
 	github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1 // indirect
 	github.com/klauspost/compress v1.4.1 // indirect
 	github.com/klauspost/cpuid v1.2.0 // indirect
