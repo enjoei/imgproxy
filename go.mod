@@ -22,7 +22,7 @@ require (
 	github.com/klauspost/compress v1.4.1 // indirect
 	github.com/klauspost/cpuid v1.2.0 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/mat/besticon v3.9.0+incompatible
+	github.com/mat/besticon v3.12.0+incompatible
 	github.com/matoous/go-nanoid v0.0.0-20181114085210-eab626deece6
 	github.com/newrelic/go-agent v2.2.0+incompatible
 	github.com/pborman/uuid v0.0.0-20180906182336-adf5a7427709 // indirect
