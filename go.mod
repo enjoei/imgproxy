@@ -3,7 +3,7 @@ module github.com/imgproxy/imgproxy
 go 1.12
 
 require (
-	cloud.google.com/go v0.34.0
+	cloud.google.com/go v0.78.0
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
 	github.com/aws/aws-sdk-go v1.16.17
 	github.com/bitly/go-simplejson v0.5.0 // indirect
@@ -15,7 +15,6 @@ require (
 	github.com/go-ole/go-ole v1.2.2 // indirect
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/google/martian v2.1.0+incompatible // indirect
-	github.com/google/uuid v1.1.0 // indirect
 	github.com/googleapis/gax-go v0.0.0-20181219185031-c8a15bac9b9f // indirect
 	github.com/honeybadger-io/honeybadger-go v0.4.0
 	github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1 // indirect
@@ -28,17 +27,12 @@ require (
 	github.com/pborman/uuid v0.0.0-20180906182336-adf5a7427709 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/prometheus/client_golang v0.9.2
-	github.com/prometheus/client_model v0.0.0-20190109181635-f287a105a20e // indirect
 	github.com/prometheus/common v0.1.0 // indirect
 	github.com/prometheus/procfs v0.0.0-20190104112138-b1a0a9a36d74 // indirect
 	github.com/shirou/gopsutil v2.18.12+incompatible // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.6.1
 	github.com/valyala/fasthttp v1.2.0
-	golang.org/x/image v0.0.0-20181116024801-cd38e8056d9b
-	golang.org/x/net v0.0.0-20190110200230-915654e7eabc // indirect
-	golang.org/x/oauth2 v0.0.0-20190110195249-fd3eaa146cbb // indirect
-	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4
-	golang.org/x/sys v0.0.0-20190109145017-48ac38b7c8cb // indirect
-	google.golang.org/api v0.1.0
-	google.golang.org/genproto v0.0.0-20190110221437-6909d8a4a91b // indirect
+	golang.org/x/image v0.0.0-20190802002840-cff245a6509b
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	google.golang.org/api v0.41.0
 )
